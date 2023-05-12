@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "460465531917",
+    "project_id": "birmarket-af8e5",
+    "storage_bucket": "birmarket-af8e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460465531917:android:581185af6467c4f12d3944",
+        "android_client_info": {
+          "package_name": "com.example.birmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460465531917-uvadh0vc66ukjhmgl8jno5u2rum6dg2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU4PT71CH_nCmC_EcrF7Cq4XlbHZ7dZCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460465531917-uvadh0vc66ukjhmgl8jno5u2rum6dg2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
